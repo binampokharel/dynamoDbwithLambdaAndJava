@@ -1,0 +1,3 @@
+org\dynamoDB\DTO\ResponseDTO.class
+org\dynamoDB\SaveZipCodeInfoHandler.class
+org\dynamoDB\entities\ZipcodeRequest.class
